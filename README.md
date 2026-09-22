@@ -2,7 +2,7 @@
 
 I am currently working on an optimisation project.
 After using python a wee bit in the past and some more on a data science refresher, I thought I would check out setting up an app.
-This lets me have fun structuring a reporting data repository, managing web scraping tools, develop labelling assistants and finally gui.
+This lets me have fun structuring a reporting data repository, managing web scraping tools, develop labelling assistants and finally a gui.
 No doubt my code will be awful, but this is how I like to learn.
 
 Fun facts - I have learned to pull apart my chainsaw in the last year and reassemble it. (It still runs)
