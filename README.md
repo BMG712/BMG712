@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there
+
+I am currently working on an optimisation project.
+After using python a wee bit in the past and some more on a data science refresher, I thought I would check out setting up an app.
+This lets me have fun structuring a reporting data repository, managing web scraping tools, develop labelling assistants and finally gui.
+No doubt my code will be awful, but this is how I like to learn.
+
+Fun facts - I have learned to pull apart my chainsaw in the last year and reassemble it. (It still runs)
+I love spitballing ideas. I see AI as a tool not a magic wand, and hope the next lot of coders don't suffer a "great dumb-down" as a result of it.
 
 <!--
 **BMG712/BMG712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
